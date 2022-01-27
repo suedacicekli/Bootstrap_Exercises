@@ -12,3 +12,5 @@ In this repostory, I will share the work on bootstrap.
 
 ## Exercise 4 🚀
 ![exercises4](https://user-images.githubusercontent.com/88403704/151310637-0dd4f140-949f-47ec-a756-bb13d5bd287e.gif)
+
+<b>👩🏻‍💻 I learned how to make a website with the frequently used components of the Bootstrap library. I continue to improve myself. I will share my progress step by step.<b>
