@@ -1,6 +1,19 @@
 # Bootstrap Exercises
 
-In this repostory, I will share the work on bootstrap.
+👩🏻‍💻 In this repostory, I will share the work on bootstrap.
+
+<a href="https://suedacicekli.medium.com"> 
+<img width="120" alt="Ekran Resmi 2022-01-24 09 16 37" src="https://cutewallpaper.org/24/medium-logo-png/medium-b52da-logo-f1516-usage-a6286-guidelines-c1d9d-by-7a740-medium-81176-mediumdesign.png">
+</a>
+
+Medium Clone Work with Bootstrap.
+
+
+
+![screencapture-127-0-0-1-5500-MediumClone-medium-html-2022-02-13-04_10_33](https://user-images.githubusercontent.com/88403704/153734068-c6baa3fb-f2ab-4619-83ee-a8606a23ff20.png)
+
+
+
 
 ## Exercise 1 👩🏻‍💻
 
