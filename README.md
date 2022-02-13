@@ -28,6 +28,8 @@ In this repostory, I will share the work on bootstrap.
   Web sayfamızı tasarlarken sütunlarda yani col sınıfına sahip div elementlerinde boşluk oluşturma amacıyla <br> sütunun sağ ve sol kısımlardan ittirilmesi için offset sınıfı kullanılır.
   
   <img width="800" height="500" alt="Ekran Resmi 2022-02-08 12 59 27" src="https://user-images.githubusercontent.com/88403704/152963834-ae84870f-4434-4deb-9299-c74fa91ab25f.png">
+ 
+ ## Exercise 7 🚀
 
   
   
