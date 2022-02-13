@@ -1,0 +1,67 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+.logo {
+    width: 25%;
+    height: 25%;
+}
+.bg-yellow{
+    background-color: #FFC017 
+}
+.border-bottom-dark {
+    border-bottom: 1px solid #414141
+}
+.border-bottom-light {
+    border-bottom: 0.2px solid #4141412a
+}
+.foto {
+    width: 250px;
+    height: 300px;
+    float: right;
+}
+.newFont {
+    font-family: "Inter" ;
+    font-size:10px;
+    font-weight: 700 ;
+    color: #414141;
+}
+.rounded-circle {
+    width:24px;
+    height: 24px;
+}
+.explanation{
+    font-size:16px;
+}
+article span {
+    font-size:13px;
+    color: #292929;
+}
+article h6 b {
+    font-size:12px;
+    color: #292929;
+}
+article ul li {
+    font-size:9px;
+    font-weight: 400;
+    color: #757575;
+}
+
+h6{
+    font-family: 'Inter' ;
+    font-weight: 700;
+    color: #E6E6E6 !important;
+    font-size: 20px;
+
+}
+.font10{
+    font-family: 'Inter' ;
+    font-size: 11px;
+    color: #757575;
+}
+.catalogImg {
+    width: 150px;
+    height:104px;
+}
+.ikonn{
+    font-size: 15px;
+}
