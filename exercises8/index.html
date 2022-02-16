@@ -15,14 +15,15 @@
       integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="/instagramclone/css/style.css" />
+    <link rel="stylesheet" href="./style.css" />
     <title>Instagram</title>
   </head>
-  <body>
+  <body class=" d-flex pt-5">
     <nav
-      class="navbar navbar-expand-sm navbar-light border"
+      class="navbar navbar-expand-sm navbar-light border fixed-top bg-white"
+      style="height:54px"
     >
-      <div class="logo">
+      <div class="logo " >
             <a class="navbar-brand" href="#"
               ><img
                 src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"
@@ -40,8 +41,9 @@
             </button>
           </div>
       <div class="collapse navbar-collapse">
-        <form class="form-inline my-2 my-lg-0 ml-5 d-none d-sm-block">
+        <form class="d-flex form-inline my-2 my-lg-0 ml-5 d-none d-sm-block">
           <input
+            id="inputSearch"
             class="form-control mr-sm-2 empty"
             type="search"
             placeholder="Ara"
