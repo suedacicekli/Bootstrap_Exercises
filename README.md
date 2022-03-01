@@ -48,5 +48,8 @@ Medium Clone Work with Bootstrap.
 
  ## Exercise 8 🚀
  Instagram CLone
+ <br>
+ ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/88403704/156134407-db04067f-7c4b-4b2b-9863-b10b19c5fe4f.gif)
+
   
   
