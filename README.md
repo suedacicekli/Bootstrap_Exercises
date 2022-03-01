@@ -43,7 +43,10 @@ Medium Clone Work with Bootstrap.
   <img width="800" height="500" alt="Ekran Resmi 2022-02-08 12 59 27" src="https://user-images.githubusercontent.com/88403704/152963834-ae84870f-4434-4deb-9299-c74fa91ab25f.png">
  
  ## Exercise 7 🚀
+<img width="446" alt="Ekran Resmi 2022-03-01 09 19 30" src="https://user-images.githubusercontent.com/88403704/156115841-30bb1150-1c88-4069-8360-b7004f0809a0.png">
+<img width="277" alt="Ekran Resmi 2022-03-01 09 19 43" src="https://user-images.githubusercontent.com/88403704/156115857-37538812-30bc-4a72-95c6-fad6f721ea5d.png">
 
-  
+ ## Exercise 8 🚀
+ Instagram CLone
   
   
