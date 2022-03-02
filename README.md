@@ -51,7 +51,7 @@ Medium Clone Work with Bootstrap.
  <br>
  ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/88403704/156134407-db04067f-7c4b-4b2b-9863-b10b19c5fe4f.gif)
 
-  ## Exercise 8 🚀
+  ## Exercise 9 🚀
  LınkedIn CLone
  <br>
  <img width="1438" alt="Ekran Resmi 2022-03-02 16 11 54" src="https://user-images.githubusercontent.com/88403704/156368279-5210b2d9-23ce-49fb-905b-84227b3f2204.png">
